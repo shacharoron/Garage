@@ -1,0 +1,21 @@
+C:\Users\Shachar\Desktop\Study\year2\b\CSharp\Ex3\Template\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\Shachar\Desktop\Study\year2\b\CSharp\Ex3\Template\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\Shachar\Desktop\Study\year2\b\CSharp\Ex3\Template\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\Shachar\Desktop\Study\year2\b\CSharp\Ex3\Template\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Shachar\Desktop\Study\year2\b\CSharp\Ex3\Template\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Shachar\Desktop\Study\year2\b\CSharp\Ex3\Template\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\Shachar\Desktop\Study\year2\b\CSharp\Ex3\Template\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
+C:\Users\Alon\Desktop\C#\ex03\יותר חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\Alon\Desktop\C#\ex03\יותר חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Alon\Desktop\C#\ex03\יותר חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Alon\Desktop\C#\ex03\יותר חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\Alon\Desktop\C#\ex03\יותר חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Desktop\C#\ex03\יותר חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\Alon\Desktop\C#\ex03\יותר חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
+C:\Users\Alon\Desktop\C#\ex03\חדש יותר יותר\חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
+C:\Users\Alon\Desktop\C#\ex03\חדש יותר יותר\חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
+C:\Users\Alon\Desktop\C#\ex03\חדש יותר יותר\חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
+C:\Users\Alon\Desktop\C#\ex03\חדש יותר יותר\חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csprojAssemblyReference.cache
+C:\Users\Alon\Desktop\C#\ex03\חדש יותר יותר\חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\Alon\Desktop\C#\ex03\חדש יותר יותר\חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
+C:\Users\Alon\Desktop\C#\ex03\חדש יותר יותר\חדש\חדש\B20 Ex03 Shachar 316462621 Alon 302314653\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
